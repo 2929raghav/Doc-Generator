@@ -46,7 +46,7 @@ $ yarn start:dev
 _Prerequisites_ -
 
 - Docker
-- Docker Compose
+- Docker  Compose
 
 ```bash
 # Edit .env file according to your production setup
